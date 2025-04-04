@@ -1,6 +1,4 @@
-[<img src="https://brainmade.org/white-logo.svg" width="25%">](https://brainmade.org/)
-
-*When life gives you lemons, decompile them*
+[<img src="https://brainmade.org/white-logo.svg" width="15%">](https://brainmade.org/)
 
 [<img src="https://www.youtube.com/s/desktop/0fca9933/img/favicon_144x144.png" width="5%">](https://www.youtube.com/channel/UCcHJHHhXrudiiUfCANcv4Yg)
 [<img src="https://modrinth.com/favicon-light.ico" width="5%">](https://modrinth.com/user/Luracasmus)
